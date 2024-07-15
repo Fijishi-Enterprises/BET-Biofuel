@@ -1,12 +1,5 @@
 # BETYdb
 
-[![DOI](https://zenodo.org/badge/4469/PecanProject/bety.svg)](https://zenodo.org/badge/latestdoi/4469/PecanProject/bety)
-
-[![Build Status](https://github.com/PecanProject/bety/workflows/CI/badge.svg)](https://github.com/PecanProject/bety/actions?query=workflow%3ACI)
-
-[![Slack](https://img.shields.io/badge/slack-login-brightgreen.svg)](https://pecanproject.slack.com/) 
-[![Slack](https://img.shields.io/badge/slack-join_chat-brightgreen.svg)](https://publicslack.com/slacks/pecanproject/invites/new) 
-
 This is the source code for the [Biofuel Ecophysiological Traits and Yields database (BETYdb)](http://www.betydb.org)
 
 The website is primarily written in Ruby-on-Rails, and has a PostgreSQL backend.
